@@ -3,3 +3,5 @@ Mercury is the smallest planet in the solar system, with a diameter of about 4,8
 Mercury experiences extreme temperature changes, reaching about 430°C during the day and dropping to around –180°C at night due to its thin atmosphere.
 
 Mercury has the shortest year of any planet, completing one orbit around the Sun in just 88 Earth days.
+
+Mercury has a weak magnetic field, which is unusual for such a small planet and suggests that part of its metallic core is still molten.
